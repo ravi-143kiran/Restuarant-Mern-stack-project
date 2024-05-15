@@ -15,7 +15,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for a rest
 -  **Contact:** We can Directly contact the Restuarant customer service.
 ## Installation
 ```
-https://github.com/ravi-143kiran/Restuarant-Mern-stack-project
+git clone https://github.com/ravi-143kiran/Restuarant-Mern-stack-project
 ```
 2.  Install dependencies:
 ```
